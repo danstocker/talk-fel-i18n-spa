@@ -1,5 +1,5 @@
 require('giant-i18n');
-§
+
 'locale/lo-OL'.toDocument()
     .setPluralFormula('nplurals=2; plural=(n != 1);')
     .setTranslations({
@@ -9,7 +9,7 @@ require('giant-i18n');
 
 'lo-OL'.toLocale().setAsCurrentLocale();
 
-var count = 1; // 1
+var count = 4; // 1
 
 var template = "I have sg".toTranslatable()
     .toLiveTemplate()

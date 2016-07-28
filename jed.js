@@ -15,7 +15,7 @@ var i18n = new Jed({
     "domain"   : "messages"
 });
 
-var count = 1; // 1
+var count = 4; // 1
 
 console.log(
     i18n.translate("I have %s")

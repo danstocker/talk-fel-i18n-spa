@@ -1,6 +1,6 @@
 var i18next = require('i18next');
 
-var count = 1; // 1
+var count = 4; // 1
 
 i18next.init({
     lng: 'en', // current locale, validated
