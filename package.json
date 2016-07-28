@@ -1,0 +1,14 @@
+{
+  "name": "talk-fel-i18n-spa",
+  "version": "1.0.0",
+  "description": "Internationalization talk examples",
+  "repository": "git@github.com:danstocker/talk-fel-i18n-spa.git",
+  "dependencies": {
+    "giant-i18n": "^0.3.1",
+    "giant-templating": "^0.3.2",
+    "i18next": "^3.4.1",
+    "jed": "^1.1.1"
+  },
+  "author": "Dan Stocker <dan@kwaia.com>",
+  "license": "MIT"
+}
